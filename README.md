@@ -1,5 +1,5 @@
 # Movie-recommendation
-Using NLP - bag of Words to Predict the Similarities between movies to recommended the most similar one.
+Using NLP - BWG (Bag of Words) to Predict the Similarities between movies to recommend the most similar one.
 
 
 Certainly, building a movie recommendation system using machine learning involves selecting appropriate features to capture user preferences and movie characteristics. Here are some feature variables you might consider for your recommendation model:
